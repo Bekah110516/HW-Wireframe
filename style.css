@@ -2,13 +2,14 @@
     background: #ebebeb;
     text-align: center;
     margin-bottom: 2%;
-    padding: 20px;
+    padding: 40px;
     width: 1220px;
     height: 20px;
 }
+
 .nav {
 background: #ebebeb;
-padding: 20px;
+padding: 40px;
 box-sizing: border-box;
 text-align: center;
 margin-bottom: 20px;
@@ -16,16 +17,14 @@ width: 1260px;
 margin-top: 2%;
 }
 
-
 #article {
     color:#ebebeb;
     background:#777;
     padding: 44px;
-    text-align: center;
+    /*text-align: center;*/
     position: relative;
-    width: 465px;
+    width: 466px;
     height: 20px;
-   
 }
 
 .h1p {
@@ -34,8 +33,6 @@ margin-top: 2%;
     width: 495px;
     padding: 20px;
     text-align: center;
-    position: relative;
-    width: 470px;
     height: 10px;
     clear: both;
     border-style: solid;
@@ -54,10 +51,11 @@ margin-top: 2%;
     width: 960px;
     font-size: 18px
 }
+
 .section {
     background: #ebebeb;
     text-align: center;
-    margin-bottom: 2%;
+    /*margin-bottom: 2%;*/
     padding: 20px;
     float: left;
     z-index:1;
@@ -77,23 +75,24 @@ margin-top: 2%;
     clear: both;
     width: 1220px;
     height: 20px;
+    position: relative;
+    top: -550px;
 }
 
 
     #aside {
         background: #ebebeb;
         text-align: center;
-        margin-bottom: 2%;
+        /*margin-bottom: 2%;*/
         padding: 20px;
         margin-top: 2%;
         padding: 20px;
         float: right; 
         position: relative;
         right: -300px;
+        top: -29px;
         width: 550px;
         height: 500px;
-
-    
-    }
+}
         
     
